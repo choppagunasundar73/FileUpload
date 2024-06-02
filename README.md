@@ -1,4 +1,6 @@
-File Uploader App - Backend Implementation
+
+# File Uploader App - Backend Implementation
+
 Overview
 This repository contains the backend implementation for a File Uploader app. The app is built using Express and includes functionalities for uploading images and videos, compressing images, and sending email notifications to users upon successful upload. The project uses several technologies and libraries to provide a robust and scalable solution.
 
@@ -95,6 +97,5 @@ Contributions are welcome! Please fork the repository and create a pull request 
 License
 This project is licensed under the MIT License.
 
-Author: Your Name
 
 Feel free to reach out with any questions or suggestions!
